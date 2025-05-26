@@ -6,6 +6,7 @@ import Loader from './Loader';
 import axios from 'axios';
 import {server} from '../index'
 import Chart from './Chart';
+import ErrorComponent from './ErrorComponent';
 
 const CoinDetails = () => {
 
