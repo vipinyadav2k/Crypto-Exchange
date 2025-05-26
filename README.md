@@ -34,32 +34,19 @@
 
 ## 📸 Screenshots
 
-> 🖼️ Replace these with your actual app screenshots
+### 🏠 Homepage with Real-Time Price Updates
+<img src="https://github.com/user-attachments/assets/331e7ea6-4b99-4673-9fa8-52409fdc0582" alt="Homepage Screenshot" width="800" />
 
-<p align="center">
-  ![image](https://github.com/user-attachments/assets/331e7ea6-4b99-4673-9fa8-52409fdc0582)
+---
 
-  <br />
-  <em>🔺 Homepage with real-time price updates</em>
-</p>
+### 🪙 Real-Time Pricing in Multiple Currencies
+<img src="https://github.com/user-attachments/assets/a7d80a9a-7851-47f0-8a69-8fdbe8a37206" alt="Multi-Currency Pricing Screenshot" width="800" />
 
-<p align="center">
-  ![image](https://github.com/user-attachments/assets/a7d80a9a-7851-47f0-8a69-8fdbe8a37206)
+---
 
-  <br />
-  <em>🪙 Real time pricing with in muiltiple currencies</em>
-</p>
-
-<p align="center">
-  ![image](https://github.com/user-attachments/assets/dbad9496-8bf0-4d48-bf98-334c43630c12)
-  <br />
-  ![image](https://github.com/user-attachments/assets/2e51b79d-9680-4c6f-b4b9-1b327c1f255d)
-
-
-
-  <br />
-  <em>📈 Charts & Analytics</em>
-</p>
+### 📊 Charts & Analytics
+<img src="https://github.com/user-attachments/assets/dbad9496-8bf0-4d48-bf98-334c43630c12" alt="Charts Screenshot" width="800" />
+<img src="https://github.com/user-attachments/assets/2e51b79d-9680-4c6f-b4b9-1b327c1f255d" alt="Analytics Screenshot" width="800" />
 
 ---
 
