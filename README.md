@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+<h1 align="center">
+  💱 Crypto Exchange & Analytics Dashboard
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  A sleek and real-time cryptocurrency exchange web app powered by the <a href="https://www.coingecko.com/en/api">CoinGecko API</a>. Built for modern users who want to monitor coin prices, trends, and analytics — all in one place.
+</p>
 
-## Available Scripts
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/vipinyadav2k/Crypto-Exchange" alt="Top Language" />
+  <img src="https://img.shields.io/github/last-commit/vipinyadav2k/Crypto-Exchange" alt="Last Commit" />
+  <img src="https://img.shields.io/github/license/vipinyadav2k/Crypto-Exchange" alt="License" />
+</p>
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+✨ Built with **React** and deployed via **Vercel**  
+📈 Live price tracking for top cryptocurrencies  
+🔄 Updates prices in **real-time**  
+🌐 Supports multiple currencies (USD, INR, EUR...)  
+📊 View interactive **charts** for each coin  
+📉 Includes market stats like highs, lows, and market cap  
+🔍 Search and filter coins easily  
+📱 Fully **responsive** and mobile-friendly
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🌍 Live Demo
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+> 🎯 Check it out live here:  
+> 🔗 [https://crypto-exchange-eight.vercel.app](https://crypto-exchange-eight.vercel.app)
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📸 Screenshots
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+> 🖼️ Replace these with your actual app screenshots
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p align="center">
+  <img src="assets/homepage-preview.png" alt="Homepage" width="800" />
+  <br />
+  <em>🔺 Homepage with real-time price updates</em>
+</p>
 
-### `npm run eject`
+<p align="center">
+  <img src="assets/coin-details.png" alt="Coin Details" width="800" />
+  <br />
+  <em>📈 Detailed view with charts and analytics</em>
+</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🧠 Tech Stack
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+| Frontend | Data Source | Deployment |
+|----------|-------------|------------|
+| React    | CoinGecko API | Vercel     |
+| Axios    | REST API      | GitHub     |
+| Chart.js / ApexCharts | Real-time Graphs | Custom Domain Ready |
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## ⚙️ Local Setup
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+# 1. Clone the repository
+git clone https://github.com/vipinyadav2k/Crypto-Exchange.git
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# 2. Navigate into the folder
+cd Crypto-Exchange
 
-### Code Splitting
+# 3. Install dependencies
+npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# 4. Start development server
+npm start
