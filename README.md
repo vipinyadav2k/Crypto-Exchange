@@ -55,8 +55,8 @@
 | Frontend | Data Source | Deployment |
 |----------|-------------|------------|
 | React    | CoinGecko API | Vercel     |
-| Axios    | REST API      | GitHub     |
-| Chart.js / ApexCharts | Real-time Graphs | Custom Domain Ready |
+| Axios    | REST API      |   |
+| Chart.js | Real-time Graphs |  |
 
 ---
 
